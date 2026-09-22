@@ -10,3 +10,9 @@ Contínua.
 
 Aprender os conceitos básicos de Git e GitHub.
 
+
+
+\## Integrantes
+
+* Eu, Anelize Nardelli.
+
